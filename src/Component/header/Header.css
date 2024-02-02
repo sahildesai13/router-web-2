@@ -1,0 +1,52 @@
+*{
+    outline: none;
+}
+.navbar-toggler-icon{
+    background-image: url('./img/menu.png') !important;
+}
+.btn-shadow{
+    background-color: #1b1b1b !important;
+    padding: 10px 12px;
+    margin-right: 20px !important;
+}
+.header{
+    background-color: black !important;
+    color: white !important;
+    border-bottom: 1px solid #757575;
+}
+.btn-close{
+    background-color: white !important;
+}
+.logoTxt{
+    color: white;
+    text-decoration: none;
+}
+.HeaderInput{
+    width: 100%;
+    color: white;
+    background-color: #1B1B1B;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+.InputCover{
+    width: 100%;
+}
+.inputCol{
+    border-left: 1px solid #757575;
+    border-right: 1px solid #757575;
+    padding: 20px 30px;
+}
+.InputLogo{
+    color: #757575;
+    position: absolute;
+    font-size: 30px;
+    top: 50%;
+    transform: translateY(-50%);
+    right: 10px;
+
+}
+.Btn{
+    color: White;
+    transition: 1s;
+    font-size: 18px;
+    background: linear-gradient(98.49deg, rgb(252, 184, 8) -11.31%, rgb(249, 7, 94) 76.26%);
+}
